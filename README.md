@@ -1,4 +1,5 @@
-# backend do "Be the Hero" (aplicativo da Semana Omnistack 11)
+# Backend do "Be the Hero" 
+#(aplicativo da Semana Omnistack 11)
 
 Aplicativo desenvolvido durante a Semana Omnistack 11, da RocketSeat
 
